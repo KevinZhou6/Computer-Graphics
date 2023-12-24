@@ -1,5 +1,8 @@
 # Computer-Graphics
 Using OpenGL &amp; C++ 计算机图形学 东南大学
+<div>
+  <img  src = "https://github.com/KevinZhou6/Computer-Graphics/blob/main/photo/exp4.png">
+</div>
 
 ## 实验总结
 

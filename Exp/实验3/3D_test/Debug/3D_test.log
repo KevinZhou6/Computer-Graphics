@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(38): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(39): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(59): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(76): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(591): warning C4305: “=”: 从“double”到“float”截断
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(780): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(781): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(785): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(787): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(789): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(790): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(797): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(798): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\try\desktop\opengl\实验3示例1\3d_test\main.cpp(804): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  3D_test.vcxproj -> C:\Users\try\Desktop\OpenGL\实验3示例1\Debug\3D_test.exe

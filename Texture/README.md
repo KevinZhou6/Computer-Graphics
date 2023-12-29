@@ -1,5 +1,7 @@
 # OpenGL 纹理映射
 
+<img src ="../photo/Torus1.png">
+
 OpenGL中纹理映射的实现包括以下几个关键步骤：
 
 ## 加载纹理

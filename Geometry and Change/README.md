@@ -32,13 +32,18 @@
   ```
 ### Sphere
 1. Made the earth and >textured it
-<a herf ="../Texture">
-      Learn Texture
-</a>
+
 
 ### Stack
+<img src ="../photo/Stack1.png">
+
+Only Foucs on *Geometry and Change*
+
 1. Use C++ stack library
 2. The sun rotates around its own center (rotation around a central point)
 3. The Earth revolves around the Sun (rotation around a fixed point)
 4. The moon revolves around the earth (rotation about a fixed point)
 
+<a href ="../Texture/">
+      Learn Texture
+</a>

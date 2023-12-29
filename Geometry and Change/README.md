@@ -1,8 +1,9 @@
 ## Learn to create arbitrary transformation matrices from simple transformations
 
-1. Gasket3D
+### Gasket3D
 <img  style =" height : 300px" src ="../photo/Gasket.png">
-2. Cubev
+
+### Cubev
   <img style =" height : 300px" src ="../photo/Cube.png">
   
  Callback function used to control object rotation
@@ -29,4 +30,15 @@
     }
   }
   ```
+### Sphere
+1. Made the earth and >textured it
+<a herf ="../Texture">
+      Learn *Texture*  
+</a>
+
+### Stack
+1. Use C++ stack library
+2. The sun rotates around its own center (rotation around a central point)
+3. The Earth revolves around the Sun (rotation around a fixed point)
+4. The moon revolves around the earth (rotation about a fixed point)
 

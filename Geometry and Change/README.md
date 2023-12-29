@@ -33,7 +33,7 @@
 ### Sphere
 1. Made the earth and >textured it
 <a herf ="../Texture">
-      Learn *Texture*  
+      Learn Texture
 </a>
 
 ### Stack

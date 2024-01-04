@@ -28,7 +28,7 @@ Using OpenGL &amp; C++ 计算机图形学 东南大学
 
 
 ## 项目介绍
-1. <a href = "../Demo"> Demo展示
+1. <a href = "Demo/"> Demo展示
   1. 直接下载，就可以体验openGL的demo
 2. <a href ="../"> 几何与变化
   1. 2D以及3D的模型绘制

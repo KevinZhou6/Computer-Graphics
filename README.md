@@ -27,3 +27,12 @@ Using OpenGL &amp; C++ 计算机图形学 东南大学
 - 学习了如何在模型上应用不同的材质效果。
 
 
+## 项目介绍
+1. <a href = "../Demo"> Demo展示
+  1. 直接下载，就可以体验openGL的demo
+2. <a href ="../"> 几何与变化
+  1. 2D以及3D的模型绘制
+  2. VBO，VAO运用
+  3. 变化矩阵的使用
+4. <a href ="../Shadow/Shadow"> 阴影
+5. <a href ="../"> 

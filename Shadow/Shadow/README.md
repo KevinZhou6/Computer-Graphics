@@ -17,4 +17,4 @@
 1. 对于平面物体，可以使用较简单的方法创建阴影。
 2. 基本思想是将物体沿着光源方向投影到接收阴影的平面上
 
-<img src="../photo/Shadow1.png">
+<img src="https://github.com/KevinZhou6/Computer-Graphics/blob/main/photo/Shadow1.png">

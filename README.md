@@ -28,11 +28,16 @@ Using OpenGL &amp; C++ 计算机图形学 东南大学
 
 
 ## 项目介绍
-1. <a href = "Demo/"> Demo展示
-  1. 直接下载，就可以体验openGL的demo
-2. <a href ="../"> 几何与变化
-  1. 2D以及3D的模型绘制
-  2. VBO，VAO运用
-  3. 变化矩阵的使用
-4. <a href ="../Shadow/Shadow"> 阴影
-5. <a href ="../"> 
+1. <a href = "Demo/"> Demo展示 </a>
+   1. 直接下载，就可以体验openGL的demo
+2. <a href ="Geometry and Change/"> 几何与变化 </a>
+   1. 2D以及3D的模型绘制
+   2. VBO，VAO运用
+   3. 变化矩阵的使用
+3. <a href ="Shadow/Shadow/"> 阴影 </a>
+4. <a href ="Exp/"> 实验  </a>
+    1. 该部分介绍了四个实验，可以帮助你快速入门精通。
+5. <a href ="ObjLoader/">模型导入  </a>
+    1. 介绍如何将Obj模型导入OpenGL
+6.  <a href ="Texture/">纹理  </a>
+7.   <a href ="Report/">报告  </a>

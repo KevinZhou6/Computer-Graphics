@@ -34,7 +34,7 @@ Using OpenGL &amp; C++ 计算机图形学 东南大学
    1. 2D以及3D的模型绘制
    2. VBO，VAO运用
    3. 变化矩阵的使用
-3. <a href ="Shadow/Shadow/"> 阴影 </a>
+3. <a href ="Shadow/"> 阴影 </a>
 4. <a href ="Exp/"> 实验  </a>
     1. 该部分介绍了四个实验，可以帮助你快速入门精通。
 5. <a href ="ObjLoader/">模型导入  </a>
